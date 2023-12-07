@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evilmauri
-- 👀 I’m interested in ser programador full stack y poder desenvolverme completamente.
+- 👀 I’m interested in ser programador full stack y poder desenvolverme completamente en el mundo de la programacion..
 - 🌱 I’m currently learning  Front-end e Back-end.
 - 💞️ I’m looking to collaborate on  el futuro de programacion.
 - 📫 How to reach me  a traves de mi correo evilmauri16@gmail.com.
