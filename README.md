@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @evilmauri
-- 👀 I’m interested in ser programador full stack y poder desenvolverme completamente en el mundo de la programacion..
-- 🌱 I’m currently learning  Front-end e Back-end.
-- 💞️ I’m looking to collaborate on  el futuro de programacion.
-- 📫 How to reach me  a traves de mi correo evilmauri16@gmail.com.
+- 👋 Hi, I’m @evilmauri - Mauricio Gonzalez
+- 🇨🇱 I'm from Chile
+- 👀 I’m interested in Programador Full Stack.
+- 🌱 Estoy aprendiendo tanto Front-end como Back-end.
+- Experiencia en Linux, JavaScript, NodeJs, PHP, Api's, HTML, MySQL, SQL, git.
+- 📫 Puedes contactarme a traves de mi correo evilmauri16@gmail.com.
 
 <!---
 evilmauri/evilmauri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
