@@ -2,7 +2,7 @@
 - 🇨🇱 I'm from Chile
 - 👀 I’m interested in Programador Full Stack.
 - 🌱 Estoy aprendiendo tanto Front-end como Back-end.
-- Experiencia en Linux, JavaScript, NodeJs, PHP, Api's, HTML, CSS, MySQL, SQL, git.
+- Experiencia en Linux, PYTHON, JavaScript, NodeJs, PHP, Api's, HTML, CSS, MySQL, SQL, git.
 - 📫 Puedes contactarme a traves de mi correo evilmauri16@gmail.com.
 
 <!---
