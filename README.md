@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programador Full Stack.
 - 🌱 Estoy aprendiendo tanto Front-end como Back-end.
 - Experiencia en Linux, PYTHON, JavaScript, NodeJs, PHP, Api's, HTML, CSS, MySQL, SQL, git.
--IDE's: Vscode, Atom, SublimeText, Spyder6.
+- IDE's: Vscode, Atom, SublimeText, Spyder6.
 - 📫 Puedes contactarme a traves de mi correo evilmauri16@gmail.com.
 
 <!---
